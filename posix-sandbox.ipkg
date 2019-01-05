@@ -1,0 +1,8 @@
+package posix-sandbox
+
+sourcedir = src
+modules = Main
+executable = "main"
+main = Main
+
+opts = "-p posix"

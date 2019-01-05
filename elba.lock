@@ -1,0 +1,4 @@
+[[packages]]
+id = 'blackenedgold/idris-posix-sandbox@dir+/home/shun/Idris/idris-posix-sandbox'
+version = '0.1.0'
+dependencies = []
